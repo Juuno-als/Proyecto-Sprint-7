@@ -7,3 +7,7 @@ La aplicación permite al usuario generar:
 - Un gráfico de dispersión entre precio y odómetro
 
 Las visualizaciones fueron creadas con Plotly y la app está preparada para ser desplegada en Render.
+
+## App en el navegador
+
+https://proyecto-sprint-7-s5b7.onrender.com/
